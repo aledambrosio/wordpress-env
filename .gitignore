@@ -1,1 +1,3 @@
 wordpress/
+nginx/certs/*.csr
+nginx/certs/*.pem
